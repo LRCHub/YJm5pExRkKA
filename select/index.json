@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "BUBBLE TEA",
+  "base_artist": "dark cat、juu、cinders",
+  "createdAt": "2026-03-26T20:12:56.258926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "bubble tea",
+      "artist": "Zamir feat. marc indigo",
+      "has_synced": true,
+      "path": "select/01_bubble_tea_Zamir_feat._marc_indigo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bubble tea",
+      "artist": "Zamir, marc indigo",
+      "has_synced": true,
+      "path": "select/02_bubble_tea_Zamir,_marc_indigo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bubble Tea",
+      "artist": "dark cat, Cinders & juu",
+      "has_synced": true,
+      "path": "select/03_Bubble_Tea_dark_cat,_Cinders_&_juu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BUBBLE TEA",
+      "artist": "dark cat",
+      "has_synced": true,
+      "path": "select/04_BUBBLE_TEA_dark_cat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bubble Tea (feat. Juu & Cinders)",
+      "artist": "dark cat",
+      "has_synced": true,
+      "path": "select/05_Bubble_Tea_(feat._Juu_&_Cinders)_dark_cat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "dark cat - BUBBLE TEA (feat. juu & cinders)",
+      "artist": "Galaxy",
+      "has_synced": true,
+      "path": "select/06_dark_cat_-_BUBBLE_TEA_(feat._juu_&_cinders)_Galaxy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BUBBLE TEA",
+      "artist": "dark cat feat. juu & cinders",
+      "has_synced": true,
+      "path": "select/07_BUBBLE_TEA_dark_cat_feat._juu_&_cinders.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bubble Tea",
+      "artist": "Dark Cat, Juu, Cinders",
+      "has_synced": true,
+      "path": "select/08_Bubble_Tea_Dark_Cat,_Juu,_Cinders.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bubble Tea - Remix",
+      "artist": "Disuko feat. dark cat, juu & Cinders",
+      "has_synced": true,
+      "path": "select/09_Bubble_Tea_-_Remix_Disuko_feat._dark_cat,_juu_&_Cinders.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bubble Tea - Remix",
+      "artist": "Disuko",
+      "has_synced": true,
+      "path": "select/10_Bubble_Tea_-_Remix_Disuko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "bubble tea",
+      "artist": "Zamir",
+      "has_synced": false,
+      "path": "select/11_bubble_tea_Zamir.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bubble Tea",
+      "artist": "Youri",
+      "has_synced": true,
+      "path": "select/12_Bubble_Tea_Youri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bubble Tea",
+      "artist": "IAMDDB",
+      "has_synced": true,
+      "path": "select/13_Bubble_Tea_IAMDDB.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Get Bubble Tea!",
+      "artist": "Dyan Tai",
+      "has_synced": true,
+      "path": "select/14_Let's_Get_Bubble_Tea!_Dyan_Tai.lrc"
+    }
+  ]
+}
